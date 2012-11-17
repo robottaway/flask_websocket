@@ -16,4 +16,8 @@ And using the gevent websocket project:
 
 http://www.gelens.org/code/gevent-websocket/
 
+Plans
+------
 
+Wire up MongoDB and Redis, make a simple light 
+communication chanels.
