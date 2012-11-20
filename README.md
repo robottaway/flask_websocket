@@ -16,6 +16,16 @@ And using the gevent websocket project:
 
 http://www.gelens.org/code/gevent-websocket/
 
+OS X
+-----
+
+I installed Gevent via mac ports, the exact port being
+py27-gevent @0.13.8_0, but you can install the version for
+the python you are using (from ports).
+
+I am sure homebrew or some other install will also work.
+Message me and let me know.
+
 Plans
 ------
 
