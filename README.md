@@ -29,5 +29,9 @@ Message me and let me know.
 Plans
 ------
 
-Wire up MongoDB and Redis, make a simple light 
+* Wire up MongoDB and Redis, make a simple light 
 communication chanels.
+* Geo bucketing? How do we push events to users in a given
+area?
+* Allow person to re-tweet a message they have to people
+in their area. This allows messages to spread viral?
